@@ -1,9 +1,6 @@
-cd _interpreters; ruby generate_anthem_interpreter.rb
-cd _interpreters; ruby generate_dying_interpreter.rb
-cd _interpreters; ruby generate_glass_interpreter.rb
-cd _interpreters; ruby generate_rose_interpreter.rb
-cd _interpreters; ruby generate_anthem_interpreter.rb
-cd _interpreters; ruby generate_dying_interpreter.rb
-cd _interpreters; ruby generate_glass_interpreter.rb
-cd _interpreters; ruby generate_rose_interpreter.rb
-cd _interpreters; ruby generate_anthem_interpreter.rb
+cd NVortexSim; cd ImaginedPath; cd Node1; ruby solve_unknown.rb; ruby create_feed.rb
+cd NVortexSim; cd ImaginedPath; cd Node2; ruby solve_unknown.rb; ruby create_feed.rb
+cd NVortexSim; cd ImaginedPath; cd Node4; ruby solve_unknown.rb; ruby create_feed.rb
+cd NVortexSim; cd ImaginedPath; cd Node8; ruby solve_unknown.rb; ruby create_feed.rb
+cd NVortexSim; cd ImaginedPath; cd Node7; ruby solve_unknown.rb; ruby create_feed.rb
+cd NVortexSim; cd ImaginedPath; cd Node5; ruby solve_unknown.rb; ruby create_feed.rb
