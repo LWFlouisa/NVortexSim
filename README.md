@@ -3,6 +3,9 @@ A fusion of vortex based approaches, and Neurosymbolic approaches.
 
 [Download](https://github.com/LWFlouisa/NVortexSim)
 
+## Goal
+NVortexSim aims to find the worst neutral outcome that isn't the absolute worst ending for an AI player reaching an ending outcome in a visual novel like context. It uses a domain-specific machine learning model implemented in a neural path loop to process the data and predict outcomes. The model is designed to run efficiently on consumer hardware with limited resources.
+
 ## A graphical flowchart for the neural path loop.
 ~~~
        8                     1
