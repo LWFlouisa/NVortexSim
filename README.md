@@ -1,6 +1,8 @@
 # NVortexSim
 A fusion of vortex based approaches, and Neurosymbolic approaches.
 
+[Download](https://github.com/LWFlouisa/NVortexSim)
+
 ## A graphical flowchart for the neural path loop.
 ~~~
        8                     1
